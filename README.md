@@ -1,4 +1,4 @@
-# Informe-6
+# Informe Tarea 6
 # OBJETIVOS:
 
 * Objetivo general: Estudiar los contenidos del capitulo 11 y 12 del libro "Principios de circuitos eléctricos" de Floyd mediante la lectura de estos capitulos y realizando un resumen que contenga los conceptos más importantes y fundamentales de todos los temas abarcados
